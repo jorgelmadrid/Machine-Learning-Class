@@ -1,0 +1,21 @@
+Tipos de aprendizaje en Machine Learning
+
+Existen cuatro tipos de aprendizaje en Machine Learning: supervisado, no supervisado, semi-supervisado y por refuerzo (reinforcement).
+
+1. El aprendizaje supervisado es cuando el modelo se entrena con un conjunto de datos etiquetado (laballed). Por ejemplo, para un set de transacciones, se registra que cliente adquirió o no, un paquete de datos ofrecido por una compañía de telecomunicaciones. Existen dos tipos de aprendizaje supervisado:
+
+- Clasificación: El objetivo aquí es identificar a que categoría pertenece una nueva observación. Ejemplo: predecir si un cliente comprara o no un producto.
+
+- Regresión: El objetivo aquí es predecir valores continuos lo mas cercano a la realidad. Por ejemplo: cuanto es el ingreso de una persona en base a su nivel educativo, edad y experiencia.
+
+Ejemplos de algoritmos de aprendizaje supervisado: regresión lineal, vecino mas cercano, Guassian Naive Bayes, arboles de decisión, Support Vector Machine (SVM) y Random Forest
+
+2. Aprendizaje no supervisado: es una rama de machine learning que aprende de datos de pruebas que no se han etiquetado, clasificado o categorizado. El aprendizaje no supervisado identifica puntos en común en los datos y reacciona en función de la presencia o ausencia de dichos puntos en común en cada nueva pieza de datos. Se utiliza cuando no se dispone de datos etiquetados para el entrenamiento. Solo tenemos datos de entrada (input) pero no de salida (output).
+
+Algunos ejemplos de algoritmos de aprendizaje no supervisado: K-Means Clustering, Hierarchical Clustering, Probabilistic Clustering, Principal Component Analysis (PCA), Singular-Value Decomposition (SVD).
+
+3. El aprendizaje semi supervisado es una técnica de machine learning que utilizan datos etiquetados y no etiquetados para el entrenamiento, generalmente una pequeña cantidad de datos etiquetados con una gran cantidad de datos no etiquetados. A diferencia del aprendizaje supervisado, este tipo de aprendizaje no se consume mucho dinero y tiempo etiquetando los datos. Algunos usos son: clasificación de paginas web, reconocimiento de voz.
+
+4. Aprendizaje por refuerzo: es una técnica de machine cuyo objetivo es determinar qué acciones debe escoger un agente de software en un entorno dado con el fin de maximizar alguna noción de "recompensa" o premio acumulado. Se utiliza cuando se deben tomar decisiones en un escenario de incertidumbre.
+
+Algunos ejemplos de algoritmos de aprendizaje por refuerzo son: Q-Learning, State-Action-Reward-State-Action (SARSA), Deep Q Network (DQN), Deep Deterministic Policy Gradient (DDPG).
