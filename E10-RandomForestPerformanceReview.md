@@ -7,3 +7,7 @@ Luego de realizar el análisis en todos los clasificadores, se demostró que el 
 Sin embargo, al evaluar datasets con dos clases, la red neuronal **avNNet_t** se desempeña mejor que el **Parallel Random Forest**, obteniendo 95% y 94%, respectivamente, en la presión máxima. Los clasificadores restantes, incluyendo otras redes neuronales, arboles de decisión, métodos de ensamblaje como bagging y boosting, vecinos cercanos, modelos lineales generalizados, no son competitivos.
 
 En conclusión, al momento de seleccionar un modelo de clasificación en la vida real, es importante elegir un modelo como línea de base que permita comparar resultados, en este caso, el modelo que se recomienda es Random Forest. Añadiendo que para problemas reales, se cuenta con poco tiempo para tomar la decisión de que modelo utilizar. Comparar uno o dos modelos contra los resultados de un Random Forest, sería suficiente para tomar la decisión. 
+
+**Referencia**
+
+Manuel Fernández-Delgado, Eva Cernadas, Senén Barro and Dinani Amorim. Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?. *Journal of Machine Learning Research 15, 3133-3181, 2014*
