@@ -10,4 +10,4 @@ En conclusión, al momento de seleccionar un modelo de clasificación en la vida
 
 **Referencia**
 
-Manuel Fernández-Delgado, Eva Cernadas, Senén Barro and Dinani Amorim. Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?. *Journal of Machine Learning Research 15, 3133-3181, 2014*
+Manuel Fernández-Delgado, Eva Cernadas, Senén Barro and Dinani Amorim. [Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?.](http://jmlr.org/papers/volume15/delgado14a/delgado14a.pdf) *Journal of Machine Learning Research 15, 3133-3181, 2014*
