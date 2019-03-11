@@ -15,3 +15,5 @@ Machine learning model for predicting a car price using:
 3. Feature Engineering
 4. Modeling & Evaluation
 5. Deploying A Flask RESTPlus API to AWS EC2
+
+![](https://github.com/jorgelmadrid/Machine-Learning-Class/raw/master/images/model_process.png)
